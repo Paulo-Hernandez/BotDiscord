@@ -6,3 +6,8 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+serenity = "0.11.5"
+[dependencies.serenity]
+default-features = false
+features = ["pick", "your", "feature", "names", "here"]
+version = "0.11.5"
