@@ -1,3 +1,6 @@
+//MTAyMjAwODAwMDM5Mjc0MDg2NA.GsYtEA.6X6rSP8f_CKRPsUMt78wjvYfYiEkBjyfvwJc0U
+
+
 use std::env;
 
 
@@ -8,9 +11,7 @@ use serenity::{
 };
 
 const HELP_MESSAGE: &str = " 
-Este es un mensaje de prueba 
-soy un papu 
-y este random?
+Y este random?
 ";
 
 
