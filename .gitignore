@@ -1,1 +1,5 @@
+# Directorio de compilacion para Cargo.
 /target
+
+# Variables del ambiente. Favor de usar el archivo '.env.example' para crear el tuyo.
+.env
